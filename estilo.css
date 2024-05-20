@@ -1,0 +1,148 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Tahoma;
+}
+
+.sec-logo {
+    background-color: #B0DDFC;
+    text-align: center;
+    padding: 30px;
+}
+
+.sec-logo img {
+    width: 200px;
+}
+
+.p-links a {
+    margin: 0 10px;
+    font-size: 20px;
+    color: #212121;
+}
+
+.sec-banner {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.sec-banner img {
+    width: 1300px;
+}
+
+.sec-sobre {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.sec-sobre h1 {
+    font-size: 50px;
+    color: #212121;
+}
+
+.sec-sobre h2 {
+    color: #1A81C4;
+    font-family: Arial;
+    font-size: 32px;
+}
+
+.sec-sobre img {
+    width: 600px;
+    margin: 15px;
+}
+
+.sec-sobre p , .sec-corretores p{
+    margin: 0 auto;
+    width: 1000px;
+    font-size: 23px;
+    text-align: justify;
+}
+
+.sec-sobre span, .sec-corretores span {
+    font-family: Tahoma;
+    font-weight: bold;
+    color: #1A81C4;
+}
+
+.sec-servicos {
+    height: 600px;
+    background-color: #1A81C4;
+}
+
+.sec-servicos h3 {
+    padding-top: 70px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    color: #ffffff;
+}
+
+.sec-servicos p {
+    margin: 0 auto;
+
+    text-align: center;
+    line-height: 45px;
+    width: 740px;
+    font-size: 25px;
+    color: #ffffff;
+}
+
+.sec-servicos span {
+    color: #F4F935;
+    font-weight: bold;
+}
+
+.sec-servicos ul {
+    margin: 50px auto;
+    font-size: 25px;
+    color: #ffffff;
+    width: 300px;
+}
+.sec-servicos li {
+    margin-left: 100px;
+    line-height: 38px;
+}
+.sec-corretores {
+    text-align: center;
+}
+.sec-corretores h3 {
+    padding-top: 70px;
+    font-size: 30px;
+    font-weight: bold;
+    color: #1A81C4;
+}
+.sec-corretores img {
+    width: 600px;
+    margin: 15px;
+}
+.sec-contato {
+    padding-bottom: 50px;
+    background-color: #1A81C4;
+    text-align: center;
+}
+.sec-contato h3 {
+    padding-top: 70px;
+    font-size: 30px;
+    font-weight: bold;
+    color: #ffffff;
+}
+.sec-contato iframe {
+    width: 1000px;
+}
+
+.sec-contato .p-contato {
+    margin: 30px auto;
+    width: 1100px;
+    padding: 15px;
+    font-size: 25px;
+    background-color: #212121;
+    color: #ffffff;
+}
+.p-contato span {
+    color: #F4F935;
+}
+.sec-contato p a {
+    background-color: #ffffff;
+    color: #1A81C4;
+    padding: 5px;
+    border-radius: 5px;
+}
